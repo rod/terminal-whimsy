@@ -1,4 +1,4 @@
-![](terminal.png)
+![](screenshot.png)
 
 # whimsy-terminal
 
