@@ -15,4 +15,4 @@
 
 
 ## License
-MIT @ [Rodney Dennis](https://rod.today)
+MIT @ [Rodney Dennis](https://rod.sh)
